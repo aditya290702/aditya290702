@@ -1,5 +1,4 @@
-Hi, I’m @aditya290702.
-
+Hi, I’m Aditya Shrivastav,
 I am a dedicated data scientist with a passion for leveraging data to solve complex problems across various domains. My areas of interest include machine learning, deep learning.
 
 I am currently enhancing my skills in advanced deep learning techniques, natural language understanding, and data visualization. I am eager to collaborate on projects that utilize data science to address real-world challenges and drive innovation.
