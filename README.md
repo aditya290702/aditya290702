@@ -9,8 +9,4 @@ I am committed to delivering high-quality results and contributing to the advanc
 
 Languages :-
 
-![OIP (2)](https://github.com/user-attachments/assets/eefaea59-6e1f-4811-ab84-df13b3eeb0de)
-![OIP (6)](https://github.com/user-attachments/assets/74cb2962-32fb-4b9d-bd79-7586cc38093a)
-![IMG_3349](https://github.com/user-attachments/assets/5e7f7aa2-2fae-4023-8869-6bf7c2b0cd76)
-![OIP (4)](https://github.com/user-attachments/assets/7c3bdd25-a16c-4c60-af70-8f03be300ae3)
-![OIP (5)](https://github.com/user-attachments/assets/e17fdef8-990f-41b6-a833-a4187c9bf439)
+![As we were discussing our interests in the domains we would like to work on, I wanted to express my interest in exploring the application of Machine learning and Image analysis in animal healthcar](https://github.com/user-attachments/assets/33762712-86ee-4d4e-9644-82905b196d59)
